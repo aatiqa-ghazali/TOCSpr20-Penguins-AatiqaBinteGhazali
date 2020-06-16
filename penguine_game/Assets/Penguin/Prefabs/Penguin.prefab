@@ -135,7 +135,7 @@ MonoBehaviour:
     vectorActionSize: 0200000003000000
     vectorActionDescriptions: []
     vectorActionSpaceType: 0
-  m_Model: {fileID: 5022602860645237092, guid: ded7202d5924b7047bf97c2958484747, type: 3}
+  m_Model: {fileID: 5022602860645237092, guid: 83f9c81398377a146973b0893b3af58d, type: 3}
   m_InferenceDevice: 0
   m_BehaviorType: 0
   m_BehaviorName: PenguinLearning
